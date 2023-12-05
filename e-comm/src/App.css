@@ -1,0 +1,140 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+body{
+ background: linear-gradient(#898787 , #355445);
+ background-size: cover;
+ height: 100vh;
+}
+.foter{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  color:#198754 ;
+  width: 100%;
+  background-color:#121111;
+  position: fixed;
+  z-index: 2;
+
+}
+.name
+{
+font-size: medium;
+}
+.email
+{
+font-size: medium;
+}
+.password
+{
+font-size: medium;
+}
+.bttn{
+  text-align: center;
+
+}
+.head{
+  text-align: center;
+  position:static;
+}
+.AwesomeSlider{
+height: 90.5vh;
+position: fixed;
+overflow-y: hidden;
+}
+
+.about-head
+{
+  margin-left: 20%;
+}
+.container1 {
+  height: 89vh;
+  background-image: url('./component/about.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.container1 >h1{
+  color: #b2eaad;
+  margin-top: 10%;
+  margin-left: 40%;
+  position: absolute;
+}
+.aboutpage{
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+  font-family: 'Croissant One', cursive ;
+  text-align: center;
+  height: 100vh;
+  background-size: cover;
+}
+.image
+{
+  height: 37vh;
+}
+.container3{
+  background-image: url('./component/bgteam.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  scroll-behavior: smooth;
+  overflow-x:hidden;
+  width: 100%;
+  height: 88vh;
+}
+.team{
+  position: absolute;
+  margin-top: 10%;
+  margin-left: 40%;
+  color: #b0b0b0;
+}
+.container4{
+  background-color: #000000;
+  height: 100vh;
+  overflow-x: hidden;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container4 > img{
+    width: 20%;
+    height: 20vh;
+}
+.pic
+{
+height: 58vh;
+padding: 20px;
+border-radius: 9%;
+}
+.para{
+  font-size: 24px;
+  color: #ffffff;
+  font-family: Cambria,cursive !important;
+ margin-left: 60px;
+}
+.autoslide{
+  z-index: -1;
+  height: 50vh;
+  
+}
+.detailup{
+  width: 40%;
+  height: 5vh;
+position: absolute;
+margin-top: 10%;
+margin-left: 30%;
+}
+
+
+
+
+
+
+/* .para1{
+  top: 158%;
+  position: absolute;
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 65px;
+} */
+/* linear-gradient(to bottom,  rgba(4, 35, 80, 0.73), rgba(8, 39, 85, 0.73)), */
